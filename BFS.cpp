@@ -9,7 +9,7 @@ map<string, string*> nama_var;
 
 string nama= "Saya";
 string reseller = "Paijo";
-string nama_pertama="";
+string nama_pertama="Gede";
 
 int cari(string nama){
 
