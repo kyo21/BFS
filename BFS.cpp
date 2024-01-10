@@ -11,9 +11,9 @@ string nama= "Saya";
 string reseller = "Paijo";
 string nama_pertama="Gede";
 
-void display_nama(){
+void display_nama(string nama){
 //
-
+cout<<"Nama anda: "<<nama<<endl;
 }
 
 int cari(string nama){
