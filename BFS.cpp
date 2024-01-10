@@ -14,6 +14,7 @@ string nama_pertama="Gede";
 void display_nama(string nama){
 //
 cout<<"Nama anda: "<<nama<<endl;
+cout<<"Status anda adalah Reseller"<<endl;
 }
 
 int cari(string nama){
