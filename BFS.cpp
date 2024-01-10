@@ -11,6 +11,11 @@ string nama= "Saya";
 string reseller = "Paijo";
 string nama_pertama="Gede";
 
+void display_nama(){
+//
+
+}
+
 int cari(string nama){
 
 queue<string> followers;
