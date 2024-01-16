@@ -17,6 +17,12 @@ cout<<"Nama anda: "<<nama<<endl;
 cout<<"Status anda adalah Reseller"<<endl;
 }
 
+int bilang_halo(){
+
+cout<<"halooooo"<<endl;
+cout<<"tesss"<<endl;
+
+}
 int cari(string nama){
 
 queue<string> followers;
