@@ -73,7 +73,7 @@ for(auto element:nama_var){
     cout<<endl;
 }
 
-cout<<endl;
+cout<<"haloooooooooo"<<endl;
 cout<<"==========================================================="<<endl;
 
 cari(nama);
