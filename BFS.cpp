@@ -8,7 +8,7 @@ using namespace std;
 map<string, string*> nama_var;
 
 string nama= "Saya";
-string reseller = "Paijo";
+string reseller = "Desy";
 string nama_pertama="Gede";
 
 void display_nama(string nama){
