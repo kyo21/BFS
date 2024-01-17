@@ -55,7 +55,7 @@ string teman_saya[3] = {"Ary", "Edy", "Tommy"};
 string teman_ary[3] = {"Desy", "Yuly"};
 string teman_edy[3] = {"Budi"};
 string teman_tomy[3] = {"Gede", "Agus"};
-
+string teman_tomy[3] = {"lala", "lili","lulu"};
 
 nama_var["Saya"] = teman_saya;
 nama_var["Ary"] = teman_ary;
