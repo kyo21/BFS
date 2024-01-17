@@ -11,6 +11,13 @@ string nama= "Saya";
 string reseller = "Paijo";
 string nama_pertama="Gede";
 
+
+int bilang_halo({
+
+
+cout<< "haloo my friend"<<endl;
+}
+
 void display_nama(string nama){
 //
 cout<<"Nama anda: "<<nama<<endl;
